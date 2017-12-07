@@ -63,7 +63,7 @@ Theta2_grad = zeros(size(Theta2));
 %
 
 
-
+J = 
 
 
 
